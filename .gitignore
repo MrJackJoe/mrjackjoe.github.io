@@ -12,4 +12,5 @@ Gemfile.lock
 # others
 *.swp
 old_readme.md
+jekyll_notes.md
 
